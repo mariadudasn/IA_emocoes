@@ -65,6 +65,7 @@ O Raspberry Pi (RPi) é um microcomputador de placa única projetado pela Raspbe
 <p align="justify">
 Equipado com processador, memória RAM, placa de vídeo integrada e diversos conectores (como USB, HDMI, áudio e GPIO), o Raspberry Pi suporta sistemas operacionais baseados em Linux e pode ser utilizado para uma variedade de finalidades. Desde atividades educacionais em programação e eletrônica até projetos de automação residencial, servidores de mídia, IoT e prototipagem.
 </p>
+
 ### Procedimento para utilização da Raspberry
 
 **→ Download da imagem da Raspberry no cartão SD**
